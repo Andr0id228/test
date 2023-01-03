@@ -1,0 +1,6 @@
+*.sass
+.bin/
+.admin/
+.config/
+GitTest.iml
+.idea/
